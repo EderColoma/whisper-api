@@ -1,7 +1,9 @@
 # Whisper-API
 
-![Python Badge](https://img.shields.io/badge/-Pyhton-3178C6?style=flat-square&logo=Python&logoColor=white)
-
+![Python Badge](https://img.shields.io/badge/-Pyhton-3776AB?style=flat-square&logo=Python&logoColor=white)
+![OpenAi Badge](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white)
+<br>
+<br>
 Provides a REST API to the OpenAI Whisper tool.
 <br>
 <br>
