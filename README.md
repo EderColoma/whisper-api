@@ -2,6 +2,7 @@
 
 ![Python Badge](https://img.shields.io/badge/-Pyhton-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![OpenAi Badge](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 <br>
 <br>
 Provides a REST API to the OpenAI Whisper tool.
